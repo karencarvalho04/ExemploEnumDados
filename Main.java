@@ -3,7 +3,7 @@ Depois que os dados param de rolar, a soma dos pontos nas faces viradas para cim
 Se a soma for 7 ou 11 no primeiro lance, você ganha.
 Se a soma for 2,3 ou 12 no primeiro lance (chamado "craps"), você perde.
 Se a soma for 4,5,6,8,9 ou 10 no primeiro lance, essa soma torna-se sua pontuação.
-Para ganhar, você deve continuar a rolas os dados até fazer o valor igual ao da sua pontuação.
+Para ganhar, você deve continuar a rolar os dados até fazer o valor igual ao da sua pontuação.
 Você perde se obtiver 7 antes de fazer a sua pontuação. */
 public class Main {
 
